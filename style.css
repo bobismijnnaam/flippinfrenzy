@@ -1,0 +1,30 @@
+h1 {
+	text-align: center;
+	font-family: tahoma;
+}
+
+h2 {
+	text-align: center;
+	font-family: tahoma;
+}
+
+#link {
+	text-align: center;
+	font-family: tahoma;
+}
+
+a {
+	font-family: tahoma;
+}
+
+#c {
+	background-color: #FFFFFF;
+	border: grey solid 1px;
+}
+
+#container {
+	width: 640px;
+	height: 480px;
+	margin-left: auto;
+	margin-right: auto;
+}
